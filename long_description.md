@@ -2,7 +2,7 @@ Did you know that San Donato in Polverosa in Novoli, Florence was founded by a p
 This application will help develop a dissertation on Public Archaeology of the convent of San Donato in Polverosa, Novoli Florence, a photografic collection of the topographic surveys on site.
 The Tesi Novoli 2021 aims to collect data and pictures from photografic surveys, local organisations to chronicle the cultural history and developement of san Donato in Polverosa from the X century onto modern times.
 
-Enhancing this important photographic archive will facilitate the searching of specific themes such as Novoli, convents, facts, etc.
+Enhancing this important photographic archive will facilitate the searching of specific themes such as Novoli, convents, facts, and contribute to our social research.
 
 This application loads a picture from the San Donato in Polverosa and asks people to tag identified people, places and objects. Try to use the tags provided first and then, if you think that other words would also be useful to describe what you see, please add your own tags too.
 
