@@ -1,5 +1,5 @@
 SPA_PhotoTagging
-PhotoTagging of the SPA 2014 Referendum leaflets
+PhotoTagging of the 2021 San Donato in Polverosa convent in Novoli, Florence.
 
 This application has four files:
 
